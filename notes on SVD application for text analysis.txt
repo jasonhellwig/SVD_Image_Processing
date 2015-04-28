@@ -1,0 +1,3 @@
+notes on SVD applications for text analysis:
+http://www.statsoft.com/Textbook/Text-Mining#indexing
+latent semantic indexing
